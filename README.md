@@ -17,4 +17,9 @@ Power BI | DAX | Excel | Data Cleaning | Visualization | Business Insights
 Big thanks to **Brainwave Matrix Solutions** for this learning opportunity!  
 #BrainwaveMatrixSolutions #PowerBI #DataAnalytics #InternshipExperience #Dashboard #DataVisualization
 
-👉 Check out the full project here: [GitHub Repo Link]
+👉 Check out the full project here: [[GitHub Repo Link](https://github.com/mahmou652/Brainwave_Matrix_Intern.git)]
+My Portfolio 👉 [https://lnkd.in/dFTc6qAC](https://drive.google.com/drive/folders/1a8aGhSuOGtW-_4z7i-s1JZHQw3wL287t?usp=drive_link)
+
+My Website 👉[ https://lnkd.in/dMfKSYvW](https://mahmoud-ali-data-analyst-d6q4ghw.gamma.site/)
+
+
